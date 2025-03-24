@@ -15,7 +15,6 @@ The analysis converts vast, unstructured social media data into visual structure
 ## Tech Stack
 
 - **Python**
-- **TensorFlow**
 - **NLTK (Natural Language Toolkit)**
 - **Pandas**
 
