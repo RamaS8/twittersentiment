@@ -6,7 +6,7 @@ A machine learning and NLP-based project to analyze sentiments expressed in twee
 
 ##  Project Description
 
-This project harnesses the power of machine learning and natural language processing (NLP) to analyze sentiments expressed in tweets. The core objective is to classify tweets into positive, negative, or neutral sentiments through a well-structured pipeline of data cleaning, feature engineering, and model training using libraries like TensorFlow, pandas, NLTK, and scikit-learn.
+This project harnesses the power of machine learning and natural language processing (NLP) to analyze sentiments expressed in tweets. The core objective is to classify tweets into positive, negative, or neutral sentiments through a well-structured pipeline of data cleaning, feature engineering, and model training using libraries like  Pandas, NLTK, and scikit-learn.
 
 The analysis converts vast, unstructured social media data into visual structured insights that can help businesses, policymakers, and researchers. These insights are crucial for monitoring brand reputation, understanding public sentiment, identifying emerging risks, and crafting effective marketing strategies.
 
